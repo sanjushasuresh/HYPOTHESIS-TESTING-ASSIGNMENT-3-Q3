@@ -3,4 +3,4 @@ Sales of products in four different regions is tabulated for males and females. 
 
 H0: All proportions are equal
 H1: All proportions are not equal
-( If p-value < alpha we reject null hypothesis.
+( If p-value < alpha we reject null hypothesis )
